@@ -4,7 +4,7 @@ import imutils
 VC = cv2.VideoCapture(0)
 
 firstframe = None
-area = 10q00
+area = 1000
 
 while True:
     _, img = VC.read()
